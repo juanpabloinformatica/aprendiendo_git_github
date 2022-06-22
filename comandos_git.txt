@@ -46,3 +46,4 @@ because the second one can give us problems with github
 
 16 - removing something done but without been commited -> git checkout -- filename
 								git checkout -- .
+17 nothing
