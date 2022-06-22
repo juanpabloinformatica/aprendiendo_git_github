@@ -7,3 +7,5 @@ git and github
 -5 to look for boxes previously created ->  git log --oneline
 
 if appears vim editor -> press :q!
+
+if you want to check user config -> git config user.email or git config user.name
