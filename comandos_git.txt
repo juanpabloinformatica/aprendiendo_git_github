@@ -35,3 +35,6 @@ insidi this , we write the elements to be ignored.
 	this instruction delete temporaly the commits which are after
 	the one we are now, however if we did not modified the files,
 	we can go back and situate in the same point we were before, it means ahead.
+
+13- use better git revert instead of git reset 
+because the second one can give us problems with github
