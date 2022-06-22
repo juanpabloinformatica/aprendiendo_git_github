@@ -1,0 +1,6 @@
+git and github
+
+-1 inside the folder -> git init
+-2 check status -> git status -s
+-3 first modificatin -> git add .
+-4 to look for boxes previously created ->  git log --oneline
