@@ -9,3 +9,14 @@ git and github
 if appears vim editor -> press :q!
 
 if you want to check user config -> git config user.email or git config user.name
+
+6 - introducing github
+	6.1
+	create a new repository
+	6.2
+	if you had had done some git things, you can follow 
+	the second instructions.
+	are the following:
+	......
+	6.3
+	put credentials
