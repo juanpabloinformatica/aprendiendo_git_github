@@ -38,3 +38,5 @@ insidi this , we write the elements to be ignored.
 
 13- use better git revert instead of git reset 
 because the second one can give us problems with github
+
+14 - navigating through branches-> git checkout {branchname}  
