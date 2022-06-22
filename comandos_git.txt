@@ -43,3 +43,6 @@ because the second one can give us problems with github
 
 15 - merge branches , once situed in the branch to update, 
 	git merge {branchname}
+
+16 - removing something done -> git checkout -- filename
+								git checkout -- .
