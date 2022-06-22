@@ -24,3 +24,8 @@ if you want to check user config -> git config user.email or git config user.nam
 7 - if you want to check url of github repository -> git remote -v
 8 - for ignoring files or folders , it has to be created a .gitignore file
 insidi this , we write the elements to be ignored.
+9- travelling through time
+	9.1 - use git log --oneline
+		then git checkout {id} to
+		to see what was happening in that moment
+		with your project
