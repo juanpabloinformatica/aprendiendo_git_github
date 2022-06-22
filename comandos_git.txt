@@ -30,3 +30,4 @@ insidi this , we write the elements to be ignored.
 		to see what was happening in that moment
 		with your project
 10 - to rename branch name -> git branch -m oldbranchname newbranchname
+11 - putting main instead of master as global -> git config --global init.defaultBranch main
