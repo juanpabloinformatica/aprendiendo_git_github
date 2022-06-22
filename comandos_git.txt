@@ -40,3 +40,6 @@ insidi this , we write the elements to be ignored.
 because the second one can give us problems with github
 
 14 - navigating through branches-> git checkout {branchname}  
+
+15 - merge branches , once situed in the branch to update, 
+	git merge {branchname}
