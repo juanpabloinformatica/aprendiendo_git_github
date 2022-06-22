@@ -31,3 +31,7 @@ insidi this , we write the elements to be ignored.
 		with your project
 10 - to rename branch name -> git branch -m oldbranchname newbranchname
 11 - putting main instead of master as global -> git config --global init.defaultBranch main
+12 - you can go back with git reset --mixed {id}
+	this instruction delete temporaly the commits which are after
+	the one we are now, however if we did not modified the files,
+	we can go back and situate in the same point we were before, it means ahead.
